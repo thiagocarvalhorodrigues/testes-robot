@@ -18,7 +18,7 @@ http://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html (
 
 Observações:
 - Instalar Python Versão 3.
-- Instalar Java 64bits ( pois a biblioteca SikuliLibrary necessita para realizar as insterações Desktop )
+- Instalar Java 64bits ( pois a biblioteca SikuliLibrary necessita para realizar as interações Desktop )
  erro que pode vir acontecer caso não esteja com a versão do java incorreta:  ## java.lang.exceptionininitializererror: null ##
  Segue o link para download:
  https://www.java.com/pt-BR/download/manual.jsp
