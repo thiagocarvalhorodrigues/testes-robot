@@ -27,7 +27,7 @@ Observações:
   
 ## VAMOS LÁ ##
 
-Arquivos codificados em ondem dos testes propostos
+Arquivos codificados em ordem dos testes propostos
 
 ResourceSiteTeste.robot
 - contém todas as keywords
