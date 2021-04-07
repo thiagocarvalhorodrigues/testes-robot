@@ -18,4 +18,5 @@ http://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html (
 
 Observações:
 - Instalar Python Versão 3.
+- Instalar Java 64bits ( pois a biblioteca SikuliLibrary necessita para realizar as insterações Desktop )
 
