@@ -33,15 +33,15 @@ ResourceSiteTeste.robot
 - contém todas as keywords
 
 ## TESTES WEB ##
-
 1 - TestePesquisarProdutosExistentes.robot <BR>
 2 - TesteProdutoNaoExistente.robot<BR>
 3 - ListarProdutos.robot
  
  
 ## TESTES DESKTOP ##
-
 TesteDesktop.robot
+
+![Screenshot](PASS - dListarProdutos.png)
 
  
  
