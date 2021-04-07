@@ -26,4 +26,17 @@ Observações:
  
   
 ## VAMOS LÁ ##
+
+Arquivos codificados em ondem dos testes propostos
+
+ResourceSiteTeste.robot
+- contém todas as keywords
+
+## TESTES WEB ##
+
+1 - TestePesquisarProdutosExistentes.robot
+2 - TesteProdutoNaoExistente.robot
+3 - ListarProdutos.robot
+
+ 
  
