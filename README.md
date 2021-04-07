@@ -41,7 +41,7 @@ ResourceSiteTeste.robot
 ## TESTES DESKTOP ##
 TesteDesktop.robot
 
-![Screenshot](PASS - dListarProdutos.png)
+![Screenshot](PASS - ListarProdutos.png)
 
  
  
