@@ -30,7 +30,7 @@ Observações:
 Arquivos codificados em ordem dos testes propostos
 
 ResourceSiteTeste.robot
-- contém todas as keywords
+- contém todas as <i>keywords</i>
 
 ## TESTES WEB ##
 1 - TestePesquisarProdutosExistentes.robot <BR>
