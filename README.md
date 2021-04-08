@@ -42,7 +42,7 @@ Detalhes fundamentais.
  
  - Projeto rodando com chromedriver.exe versão 89
  - chromedriver.exe Alocado dentro do PATH do python, <i>C:\Users\nome_do_usuario\AppData\Local\Programs\Python\Python39\Scripts</i> <BR>  
- - Google chrome na mesma versão do chromedriver 89
+ - Google chrome TEM QUE ESTAR na mesma versão do chromedriver 89
  
   
 ## VAMOS LÁ ##
