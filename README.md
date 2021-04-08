@@ -30,7 +30,7 @@ Observações:
 Arquivos codificados em ordem dos testes propostos
 
 ResourceSiteTeste.robot
-- contém todas as <i>keywords</i>
+- Contém todas as <i>keywords</i>
 
 ## TESTES WEB ##
 1 - TestePesquisarProdutosExistentes.robot <BR>
@@ -40,6 +40,13 @@ ResourceSiteTeste.robot
  
 ## TESTES DESKTOP ##
 TesteDesktop.robot
+
+## COMO RODAR OS TESTES ##
+
+- Abra o PROMPT DE COMANDO e navegue até a pasta do projeto.
+- Exceute o seguinte comando.
+
+
 
  
  
