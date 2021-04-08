@@ -7,8 +7,15 @@ Realizado testes automatizados com Robot Framework
 TESTE WEB, realizado no site http://automationpractice.com/index.php. <br>
 Realizando buscas de produtos, clicks em botões com a finalidade de testes das tags da árvore DOM.
 
+![image](https://user-images.githubusercontent.com/23345809/113963780-9e687580-9800-11eb-86a8-499d25d5a51e.png)
+![image](https://user-images.githubusercontent.com/23345809/113963850-bfc96180-9800-11eb-8487-78c02b152ed8.png)
+
+
 DESKTOP, realizado teste de clicks do menu inicial do windows, abrindo o bloco de notas e inserindo o texto “PWX Tecnologia”, 
 verificando se o texto “PWX Tecnologia” consta na tela, e por fim fechando o bloco de notas.
+
+![image](https://user-images.githubusercontent.com/23345809/113963948-ebe4e280-9800-11eb-95d6-e94a97cd9c95.png)
+
 
 
 ### Pequeno Guia para Desenvolvimento em Robot Framework (RF) ##
@@ -72,7 +79,7 @@ TesteDesktop.robot
  # Espero que Tenham Gostado, Forte abraço, até mais. #
  
 
-![image](https://user-images.githubusercontent.com/23345809/113963780-9e687580-9800-11eb-86a8-499d25d5a51e.png)
+
 
 
 
