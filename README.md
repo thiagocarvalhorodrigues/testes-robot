@@ -22,7 +22,11 @@ Observações:
  erro que pode vir acontecer caso não esteja com a versão do java incorreta: ## <i>java.lang.exceptionininitializererror: null</i>  ##
  Segue o link para download:
  https://www.java.com/pt-BR/download/manual.jsp
-  
+ 
+ - Projeto rodando com chromedriver.exe versão 89
+ - chromedriver.exe Alocado dentro do PATH do python <BR>  
+ - <i>C:\Users\nome_do_usuario\AppData\Local\Programs\Python\Python39\Scripts</i>
+ - Google chrome na mesma versão do chromedriver 89
  
   
 ## VAMOS LÁ ##
