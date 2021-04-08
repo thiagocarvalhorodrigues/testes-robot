@@ -2,6 +2,8 @@
 
 Realizado testes automatizados com Robot Framework 
 
+TESTES WEB E DESKTOP
+
 ### Pequeno Guia para Desenvolvimento em Robot Framework (RF) ##
 
 1) Site Oficial do Robot Framework
