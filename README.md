@@ -44,8 +44,9 @@ TesteDesktop.robot
 ## COMO RODAR OS TESTES ##
 
 1 -  Abra o PROMPT DE COMANDO e navegue até a pasta do projeto. <BR>
-- Execute o seguinte comando. <BR>
-- robot <i>nome_do_teste.robot</i><BR>
+2 -  Execute o seguinte comando. <BR>
+
+-  robot <i>nome_do_teste.robot</i><BR>
 -EX: robot <i>ListarProdutos.robot<i>
 
 
