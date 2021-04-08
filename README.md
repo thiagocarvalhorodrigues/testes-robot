@@ -58,7 +58,7 @@ TesteDesktop.robot
  como boas práticas o Test Setup e o Test Teardown, informando o início e o fim de cada teste. 
  Irei deixar um link de um vídeo excelente para entender um pouco mais: https://www.facebook.com/iterasys/videos/187032256402235 
  
- No projeto constam as fotos de todos os testes # PASS \0/ #
+ No projeto constam as fotos de todos os testes ## PASS \0/ ##
  
  # Espero que Tenham Gostado, Forte abraço, até mais. #
  
