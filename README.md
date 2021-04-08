@@ -16,7 +16,7 @@ Sikuli Library (PARA TESTES DE APLICAÇÕES DESKTOP) https://github.com/rainmanw
 http://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html (documentação)
 
 
-Observações:
+Detalhes fundamentais.
 - Instalar Python Versão 3.
 - Instalar Java 64bits ( pois a biblioteca SikuliLibrary necessita para realizar as interações Desktop )
  erro que pode vir acontecer caso não esteja com a versão do java incorreta: ## <i>java.lang.exceptionininitializererror: null</i>  ##
@@ -24,8 +24,7 @@ Observações:
  https://www.java.com/pt-BR/download/manual.jsp
  
  - Projeto rodando com chromedriver.exe versão 89
- - chromedriver.exe Alocado dentro do PATH do python <BR>  
- - <i>C:\Users\nome_do_usuario\AppData\Local\Programs\Python\Python39\Scripts</i>
+ - chromedriver.exe Alocado dentro do PATH do python, <i>C:\Users\nome_do_usuario\AppData\Local\Programs\Python\Python39\Scripts</i> <BR>  
  - Google chrome na mesma versão do chromedriver 89
  
   
