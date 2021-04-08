@@ -48,6 +48,12 @@ TesteDesktop.robot
 
 -  robot <i>nome_do_teste.robot</i><BR>
 -EX: robot <i>ListarProdutos.robot<i>
+ 
+ ## OBSERVAÇÃO: ##
+ 
+ No meu caso eu criei para cada teste um arqquivo, caso você ache melhor criar um arquivo para realizar vários testes, oriento a utilizar
+ como boas práticas o Test Setup e o Test Teardown, informando o início e o fim de cada teste. 
+
 
 
 
