@@ -57,6 +57,8 @@ TesteDesktop.robot
  No meu caso eu criei para cada teste um arquivo, caso você ache melhor criar um arquivo para realizar vários testes, oriento a utilizar
  como boas práticas o Test Setup e o Test Teardown, informando o início e o fim de cada teste. 
  Irei deixar um link de um vídeo excelente para entender um pouco mais: https://www.facebook.com/iterasys/videos/187032256402235 
+ 
+ #Espero que Tenham Gostado, Forte abraço..#
 
 
 
