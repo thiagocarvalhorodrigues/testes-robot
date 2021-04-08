@@ -45,7 +45,7 @@ TesteDesktop.robot
 
 1 -  Abra o PROMPT DE COMANDO e navegue até a pasta do projeto. <BR>
 - Execute o seguinte comando. <BR>
-- robot <i>nome_do_teste.robot</i>
+- robot <i>nome_do_teste.robot</i><BR>
 -EX: robot <i>ListarProdutos.robot<i>
 
 
