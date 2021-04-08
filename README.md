@@ -34,7 +34,7 @@ ResourceSiteTeste.robot
 
 ## TESTES WEB ##
 1 - TestePesquisarProdutosExistentes.robot <BR>
-2 - TesteProdutoNaoExistente.robot<BR>
+2 - TesteProdutoNaoExistente.robot <BR>
 3 - ListarProdutos.robot
  
  
@@ -43,8 +43,11 @@ TesteDesktop.robot
 
 ## COMO RODAR OS TESTES ##
 
-- Abra o PROMPT DE COMANDO e navegue até a pasta do projeto.
-- Exceute o seguinte comando.
+1 -  Abra o PROMPT DE COMANDO e navegue até a pasta do projeto. <BR>
+- Execute o seguinte comando. <BR>
+- robot <i>nome_do_teste.robot</i>
+-EX: robot <i>ListarProdutos.robot<i>
+
 
 
 
