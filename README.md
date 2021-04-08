@@ -7,6 +7,7 @@ Realizado testes automatizados com Robot Framework
 TESTE WEB, realizado no site http://automationpractice.com/index.php. <br>
 Realizando buscas de produtos, clicks em botões com a finalidade de testes das tags da árvore DOM.
 
+![image](https://user-images.githubusercontent.com/23345809/113964025-0e76fb80-9801-11eb-8a6c-fa76613a0027.png)
 ![image](https://user-images.githubusercontent.com/23345809/113963780-9e687580-9800-11eb-86a8-499d25d5a51e.png)
 ![image](https://user-images.githubusercontent.com/23345809/113963850-bfc96180-9800-11eb-8487-78c02b152ed8.png)
 
