@@ -4,6 +4,13 @@ Realizado testes automatizados com Robot Framework
 
 TESTES WEB E DESKTOP
 
+TESTE WEB, realizado no site http://automationpractice.com/index.php. <br>
+Realizando buscas de produtos, clicks em botões com a finalidade de testes das tags da árvore DOM.
+
+DESKTOP, realizado teste de clicks do inicial do windows, abrindo o bloco de notas e inserindo o texto “PWX Tecnologia”, 
+Realizando se o texto “PWX Tecnologia” consta na tela, e por fim fechando o bloco de notas.
+
+
 ### Pequeno Guia para Desenvolvimento em Robot Framework (RF) ##
 
 1) Site Oficial do Robot Framework
