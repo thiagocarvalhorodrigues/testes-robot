@@ -2,7 +2,7 @@
 
 Realizado testes automatizados com Robot Framework 
 
-TESTES WEB E DESKTOP
+# TESTES WEB E DESKTOP #
 
 TESTE WEB, realizado no site http://automationpractice.com/index.php. <br>
 Realizando buscas de produtos, clicks em botões com a finalidade de testes das tags da árvore DOM.
